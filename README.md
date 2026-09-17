@@ -18,47 +18,66 @@ I'm a Software Engineering student at **1337 (42 Network)**, building strong fou
 
 ### 🖥️ C, Linux & Systems Foundations
 
-My first deeper interaction with programming was through **C and Linux**.
+My first deeper interaction with programming and computer science was through **C and Linux**.
 
 Projects such as:
 
 * **get_next_line** — file descriptors, buffers, static variables and dynamic memory
 * **push_swap** — sorting algorithms, stacks and optimization
 * **Born2beroot** — Linux, virtual machines, system administration, users, permissions, services and security
-* **Codexion** — concurrency using POSIX threads, mutexes, synchronization and scheduling
+* **Codexion** — concurrency with POSIX threads, mutexes, synchronization, condition variables and scheduling
 
-gave me a strong foundation in low-level programming and systems concepts.
+helped me understand lower-level programming and what happens beneath higher-level abstractions.
 
 ### 🐍 Python, OOP & Algorithms
 
-The new 1337 Common Core expanded my work toward **Python, Object-Oriented Programming and higher-level software development**.
+The updated 1337 Common Core expanded my work toward **Python, Object-Oriented Programming and algorithmic problem solving**.
 
-I completed a series of Python modules covering Python fundamentals and OOP, followed by larger projects including:
+I completed **Python Modules 00–10**, covering Python fundamentals, data structures, OOP and the Pythonic approach to software development.
 
-* **A-Maze-ing** — Python, OOP and algorithmic problem solving
-* **Fly-in** — algorithms and software design
+* First Python module validated: **January 22, 2026**
+* Python Module 10 validated: **April 7, 2026**
 
-Currently working on:
+These modules were not completed in isolation — they were developed alongside larger Common Core projects.
 
-* **Pacman** — in progress
+### 🧩 Larger Python Projects
 
-### 🤖 AI / LLMs
+**A-Maze-ing** ✅
+Validated on **March 10, 2026**.
 
-My current direction is increasingly focused on **Machine Learning, LLMs and AI systems**.
+A team project developed with one peer, applying Python, Object-Oriented Programming, algorithms and collaborative software development.
+
+**Fly-in** ✅
+A Python project focused on algorithms, problem solving and software design.
+
+**Pacman** 🚧
+Currently in progress.
+
+## 🤖 AI / LLMs
+
+My current direction is increasingly focused on **Machine Learning, Large Language Models and AI systems**.
 
 **Call Me Maybe** ✅
 Worked with a small **Qwen 0.3B** language model and explored **constrained decoding** to control model generation.
 
 **RAG Against the Machine** 🚧
-Currently working on a Retrieval-Augmented Generation project involving document processing, embeddings, retrieval, context augmentation and LLM-based generation.
+Currently working on a Retrieval-Augmented Generation project involving concepts such as:
+
+* Document processing
+* Chunking
+* Embeddings
+* Vector search
+* Retrieval
+* Context augmentation
+* LLM-based generation
 
 ## 🎯 Direction
 
-I'm currently building toward:
+I'm building toward the intersection of:
 
 **Software Engineering × Machine Learning × LLMs**
 
-My goal is to continue developing strong foundations in computer science while going deeper into:
+My goal is to continue strengthening my foundations in computer science while going deeper into:
 
 * Machine Learning
 * Deep Learning
@@ -72,26 +91,43 @@ My goal is to continue developing strong foundations in computer science while g
 
 Before software engineering, I studied **Audiovisual & Cinema**, specializing in sound.
 
-I'm also interested in the intersection of **software, AI, audio, music and creative technology**.
+I'm also interested in exploring the intersection of **software, AI, audio, music and creative technology**.
 
 ---
 
 ### Learning Path
 
 ```text
-C / Linux
-    ↓
-Systems & Algorithms
-    ↓
-Python / OOP
-    ↓
-Algorithms & Software Design
-    ↓
-LLMs / AI
-    ↓
-RAG & AI Systems
+C / Linux Foundations
+        │
+        ├── get_next_line
+        ├── push_swap
+        ├── Born2beroot
+        └── Codexion
+                │
+                ▼
+        Python Modules 00–10
+          Jan 22 → Apr 7, 2026
+                │
+        ┌───────┴─────────┐
+        │                 │
+        ▼                 ▼
+   A-Maze-ing          Other Modules
+   Mar 10, 2026       continued in parallel
+        │
+        ▼
+      Fly-in
+        │
+        ├──────────► Pacman 🚧
+        │
+        ▼
+   Call Me Maybe
+        │
+        ▼
+RAG Against the Machine 🚧
+        │
+        ▼
+   ML / LLM / AI Systems
 ```
 
 **42 Network / 1337 · Rabat, Morocco**
-
-
