@@ -2,7 +2,7 @@
 
 **42 Network / 1337 · Software Engineering · Python · AI / ML / LLMs**
 
-I'm currently studying at **1337 (42 Network)**, where I'm developing strong foundations in software engineering, programming, algorithms and computer science, with a growing focus on **Machine Learning, LLMs and AI systems**.
+I'm a Software Engineering student at **1337 (42 Network)**, building strong foundations in programming, algorithms, systems and software design, with a growing focus on **Machine Learning, Large Language Models and AI systems**.
 
 ## 🧠 Current Focus
 
@@ -11,108 +11,87 @@ I'm currently studying at **1337 (42 Network)**, where I'm developing strong fou
 * Algorithms & Data Structures
 * Machine Learning
 * Large Language Models
-* RAG systems
+* Retrieval-Augmented Generation
 * LLM inference & constrained decoding
 
-## 🚀 42 / 1337 Journey
+## 🚀 My 42 / 1337 Journey
 
-### 🖥️ C & Systems Foundations
+### 🖥️ C, Linux & Systems Foundations
 
-My first deeper interaction with programming and computer science was through **C**, working with projects that introduced me to memory management, pointers, file handling, algorithms and low-level programming.
-
-Some of the projects that built these foundations:
-
-* **Libft** — Reimplementing parts of the C standard library and understanding fundamental C concepts.
-* **get_next_line** — File descriptors, buffered reading, dynamic memory and managing data streams.
-* **ft_printf** — Variadic functions, formatted output and deeper understanding of how C handles arguments and memory.
-* **push_swap** — Algorithms, data structures and optimization through sorting operations.
-* **Born2beroot** — A Linux virtual machine project focused on system administration, Linux architecture, users and permissions, services, networking and system security.
-
-These projects gave me my first experience working close to the system and understanding what happens beneath higher-level abstractions.
-
-### 🐍 Python, OOP & Algorithms
-
-The new 1337 Common Core shifted my focus toward **Python and higher-level software development**, with dedicated modules covering Python fundamentals and Object-Oriented Programming.
+My first deeper interaction with programming was through **C and Linux**.
 
 Projects such as:
 
-* **Amazing**
-* **Pacman**
-* **Flyin**
+* **get_next_line** — file descriptors, buffers, static variables and dynamic memory
+* **push_swap** — sorting algorithms, stacks and optimization
+* **Born2beroot** — Linux, virtual machines, system administration, users, permissions, services and security
+* **Codexion** — concurrency using POSIX threads, mutexes, synchronization and scheduling
 
-allowed me to apply OOP principles, software design and algorithms in larger projects.
+gave me a strong foundation in low-level programming and systems concepts.
 
-This stage also introduced me to algorithmic concepts such as **topological sorting** and other data-structure and problem-solving techniques.
+### 🐍 Python, OOP & Algorithms
 
-### 🤖 AI / ML / LLMs
+The new 1337 Common Core expanded my work toward **Python, Object-Oriented Programming and higher-level software development**.
 
-My current direction is increasingly focused on **Artificial Intelligence, Machine Learning and Large Language Models**.
+I completed a series of Python modules covering Python fundamentals and OOP, followed by larger projects including:
 
-**RAG Against the Machine**
-A Retrieval-Augmented Generation project exploring how retrieval, context augmentation and generation can be combined to build LLM-based systems.
+* **A-Maze-ing** — Python, OOP and algorithmic problem solving
+* **Fly-in** — algorithms and software design
 
-**CallMeMaybe**
-An LLM project involving **constrained decoding** with a small **Qwen 0.3B** model, exploring how generation can be controlled through constraints.
+Currently working on:
+
+* **Pacman** — in progress
+
+### 🤖 AI / LLMs
+
+My current direction is increasingly focused on **Machine Learning, LLMs and AI systems**.
+
+**Call Me Maybe** ✅
+Worked with a small **Qwen 0.3B** language model and explored **constrained decoding** to control model generation.
+
+**RAG Against the Machine** 🚧
+Currently working on a Retrieval-Augmented Generation project involving document processing, embeddings, retrieval, context augmentation and LLM-based generation.
 
 ## 🎯 Direction
 
-I'm currently building toward the intersection of:
+I'm currently building toward:
 
 **Software Engineering × Machine Learning × LLMs**
 
-My goal is to deepen my understanding of:
+My goal is to continue developing strong foundations in computer science while going deeper into:
 
 * Machine Learning
 * Deep Learning
 * NLP
 * LLMs
 * RAG
-* AI agents
 * Model inference
 * AI systems
 
-while maintaining strong foundations in algorithms, systems and software engineering.
-
-## 🧩 Background
+## 🎬 Background
 
 Before software engineering, I studied **Audiovisual & Cinema**, specializing in sound.
 
-I'm interested in exploring the intersection of **software, AI, audio, music and creative technology**.
+I'm also interested in the intersection of **software, AI, audio, music and creative technology**.
 
 ---
 
-### Current learning path
+### Learning Path
 
 ```text
 C / Linux
-    │
-    ├── Memory & Pointers
-    ├── File Descriptors
-    ├── Algorithms
-    └── System Fundamentals
-            │
-            ▼
-       Python / OOP
-            │
-            ├── Algorithms
-            ├── Software Design
-            └── Larger Projects
-                    │
-                    ▼
-              AI / Machine Learning
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-            RAG           LLMs
-             │             │
-             ▼             ▼
-   RAG Against        CallMeMaybe
-   the Machine        Qwen 0.3B
-             │             │
-             └──────┬──────┘
-                    ▼
-              AI Systems
+    ↓
+Systems & Algorithms
+    ↓
+Python / OOP
+    ↓
+Algorithms & Software Design
+    ↓
+LLMs / AI
+    ↓
+RAG & AI Systems
 ```
 
 **42 Network / 1337 · Rabat, Morocco**
+
 
